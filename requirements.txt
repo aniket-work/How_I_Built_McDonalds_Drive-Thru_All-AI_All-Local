@@ -1,0 +1,14 @@
+llama-index-llms-groq
+python-dotenv
+pygame
+gtts
+pyaudio
+numpy
+llama-index-vector-stores-qdrant
+scipy
+faster-whisper
+llama-index-embeddings-huggingface
+qdrant-client
+llama-index
+llama-index-llms-ollama
+sentence-transformers

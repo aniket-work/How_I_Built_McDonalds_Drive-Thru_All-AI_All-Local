@@ -1,0 +1,42 @@
+Restaurant Name: AniDonald's Bistro
+Location: Canada, Toronto
+
+Menu:
+
+Breakfast Bonanza:
+
+Flapjack Attack - $5.00
+Sandy-Wich Delight - $3.50
+Honey Oats Bliss - $3.50
+Wacky Waffles - $4.00
+Egg-cellent Muffin - $4.50
+Bacon Buddy Wrap - $5.00
+Burger Mania:
+
+Ani's Classic Burger - $6.00
+Cheese Please Burger - $6.50
+Bacon Boom Burger - $7.50
+Veggie Venture Burger - $5.50
+Double Trouble Burger - $8.00
+Sides & Snacks:
+
+Crazy Curly Fries - $2.50
+Cheesy Nuggets - $4.00
+Onion Ring-O-Ding - $3.50
+Sweet Potato Crunch - $3.75
+Mini Mozzarella Melts - $4.50
+Drinks & Desserts:
+
+Pepper Pop - $2.00
+Cola Craze - $2.00
+Milkshake Madness (Chocolate/Vanilla/Strawberry) - $4.00
+Iced Coffee Kick - $3.50
+Berry Bliss Smoothie - $4.50
+Ice Cream Dream Cone - $3.00
+Choco Lava Cake - $5.00
+Kids' Fun Meals:
+
+Mini Burger Buddy - $4.50
+Tiny Tacos - $3.50
+Lil' Chicken Bites - $4.00
+Pint-Sized Pizza - $4.50

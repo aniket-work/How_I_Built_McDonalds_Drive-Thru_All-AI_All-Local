@@ -45,7 +45,7 @@ def embedd_audio(audio, stream, chunk_length=DEFAULT_CHUNK_LENGTH):
         data = stream.read(1024)
         frames.append(data)
 
-    temp_file_path = 'temp_audio_chunk.wav'
+    temp_file_path = 'inflight_audio.wav'
 
     # Save the recorded frames to a temporary WAV file
     with wave.open(temp_file_path, 'wb') as wf:

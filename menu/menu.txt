@@ -1,8 +1,3 @@
-Restaurant Name: AniDonald's Bistro
-Location: Canada, Toronto
-
-Menu:
-
 Breakfast Bonanza:
 
 Flapjack Attack - $5.00
@@ -40,3 +35,6 @@ Mini Burger Buddy - $4.50
 Tiny Tacos - $3.50
 Lil' Chicken Bites - $4.00
 Pint-Sized Pizza - $4.50
+
+Restaurant Name: AniDonald's Bistro
+Location: Canada, Toronto
